@@ -1,0 +1,153 @@
+.wb-stl-pagetitle { font: italic bold 18px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-pagetitle a { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+.wb-stl-pagetitle a:hover { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+.wb-stl-pagetitle ul { list-style-image: url(''); }
+.wb-stl-subtitle { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-subtitle a { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+.wb-stl-subtitle a:hover { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+.wb-stl-subtitle ul { list-style-image: url(''); }
+.wb-stl-heading1 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #4f4747; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+.wb-stl-heading1 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+.wb-stl-heading1 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+.wb-stl-heading1 ul { list-style-image: url(''); }
+.wb-stl-heading2 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #6e6c6a; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+.wb-stl-heading2 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+.wb-stl-heading2 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+.wb-stl-heading2 ul { list-style-image: url(''); }
+.wb-stl-heading3 { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+.wb-stl-heading3 a { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+.wb-stl-heading3 a:hover { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+.wb-stl-heading3 ul { list-style-image: url('null'); }
+.wb-stl-normal { font: normal normal 14px 'Open Sans',sans-serif; color: #615f61; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-normal a { font: normal normal 14px 'Open Sans',sans-serif; color: #fa6a3a; text-decoration: underline; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+.wb-stl-normal a:hover { font: normal normal 14px 'Open Sans',sans-serif; color: #f26d38; text-decoration: none; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+.wb-stl-normal ul { list-style-image: url(''); }
+.wb-stl-highlight { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-highlight a { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+.wb-stl-highlight a:hover { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+.wb-stl-highlight ul { list-style-image: url(''); }
+.wb-stl-special { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #ffffff; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-special a { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+.wb-stl-special a:hover { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+.wb-stl-special ul { list-style-image: url('null'); }
+.wb-stl-footer { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+.wb-stl-footer a { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+.wb-stl-footer a:hover { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+.wb-stl-footer ul { list-style-image: url(''); }
+
+@media (min-width: 768px) {
+	.wb-stl-pagetitle { font: italic bold 18px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-pagetitle a { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-pagetitle a:hover { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-pagetitle ul { list-style-image: url(''); }
+	.wb-stl-subtitle { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-subtitle a { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+	.wb-stl-subtitle a:hover { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+	.wb-stl-subtitle ul { list-style-image: url(''); }
+	.wb-stl-heading1 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #4f4747; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading1 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading1 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading1 ul { list-style-image: url(''); }
+	.wb-stl-heading2 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #6e6c6a; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading2 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading2 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading2 ul { list-style-image: url(''); }
+	.wb-stl-heading3 { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading3 a { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+	.wb-stl-heading3 a:hover { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+	.wb-stl-heading3 ul { list-style-image: url('null'); }
+	.wb-stl-normal { font: normal normal 14px 'Open Sans',sans-serif; color: #615f61; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-normal a { font: normal normal 14px 'Open Sans',sans-serif; color: #fa6a3a; text-decoration: underline; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+	.wb-stl-normal a:hover { font: normal normal 14px 'Open Sans',sans-serif; color: #f26d38; text-decoration: none; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+	.wb-stl-normal ul { list-style-image: url(''); }
+	.wb-stl-highlight { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-highlight a { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-highlight a:hover { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-highlight ul { list-style-image: url(''); }
+	.wb-stl-special { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #ffffff; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-special a { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+	.wb-stl-special a:hover { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+	.wb-stl-special ul { list-style-image: url('null'); }
+	.wb-stl-footer { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-footer a { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-footer a:hover { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-footer ul { list-style-image: url(''); }
+}
+
+@media (min-width: 992px) {
+	.wb-stl-pagetitle { font: italic bold 18px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-pagetitle a { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-pagetitle a:hover { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-pagetitle ul { list-style-image: url(''); }
+	.wb-stl-subtitle { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-subtitle a { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+	.wb-stl-subtitle a:hover { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+	.wb-stl-subtitle ul { list-style-image: url(''); }
+	.wb-stl-heading1 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #4f4747; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading1 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading1 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading1 ul { list-style-image: url(''); }
+	.wb-stl-heading2 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #6e6c6a; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading2 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading2 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading2 ul { list-style-image: url(''); }
+	.wb-stl-heading3 { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading3 a { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+	.wb-stl-heading3 a:hover { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+	.wb-stl-heading3 ul { list-style-image: url('null'); }
+	.wb-stl-normal { font: normal normal 14px 'Open Sans',sans-serif; color: #615f61; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-normal a { font: normal normal 14px 'Open Sans',sans-serif; color: #fa6a3a; text-decoration: underline; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+	.wb-stl-normal a:hover { font: normal normal 14px 'Open Sans',sans-serif; color: #f26d38; text-decoration: none; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+	.wb-stl-normal ul { list-style-image: url(''); }
+	.wb-stl-highlight { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-highlight a { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-highlight a:hover { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-highlight ul { list-style-image: url(''); }
+	.wb-stl-special { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #ffffff; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-special a { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+	.wb-stl-special a:hover { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+	.wb-stl-special ul { list-style-image: url('null'); }
+	.wb-stl-footer { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-footer a { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-footer a:hover { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-footer ul { list-style-image: url(''); }
+}
+
+@media (min-width: 1200px) {
+	.wb-stl-pagetitle { font: italic bold 18px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-pagetitle a { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-pagetitle a:hover { font: italic bold 18px Georgia,serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-pagetitle ul { list-style-image: url(''); }
+	.wb-stl-subtitle { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-subtitle a { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: none; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+	.wb-stl-subtitle a:hover { font: normal normal 45px 'Roboto Slab',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; line-height: 40px; font-weight: normal; font-style: normal; }
+	.wb-stl-subtitle ul { list-style-image: url(''); }
+	.wb-stl-heading1 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #4f4747; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading1 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading1 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading1 ul { list-style-image: url(''); }
+	.wb-stl-heading2 { font: normal normal 20px 'Roboto Slab',sans-serif; color: #6e6c6a; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading2 a { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading2 a:hover { font: normal normal 20px 'Roboto Slab',sans-serif; color: #000000; text-decoration: none; text-align: left; font-weight: normal; font-style: normal; }
+	.wb-stl-heading2 ul { list-style-image: url(''); }
+	.wb-stl-heading3 { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: uppercase; }
+	.wb-stl-heading3 a { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+	.wb-stl-heading3 a:hover { font: normal normal 16px 'Roboto Slab',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: normal; font-weight: normal; font-style: normal; }
+	.wb-stl-heading3 ul { list-style-image: url('null'); }
+	.wb-stl-normal { font: normal normal 14px 'Open Sans',sans-serif; color: #615f61; text-decoration: none; text-align: left; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-normal a { font: normal normal 14px 'Open Sans',sans-serif; color: #fa6a3a; text-decoration: underline; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+	.wb-stl-normal a:hover { font: normal normal 14px 'Open Sans',sans-serif; color: #f26d38; text-decoration: none; text-align: left; line-height: 22px; font-weight: bold; font-style: normal; }
+	.wb-stl-normal ul { list-style-image: url(''); }
+	.wb-stl-highlight { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-highlight a { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-highlight a:hover { font: italic bold 16px Georgia,serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-highlight ul { list-style-image: url(''); }
+	.wb-stl-special { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #ffffff; line-height: 22px; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-special a { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+	.wb-stl-special a:hover { font: normal normal 14px 'Open Sans',sans-serif; text-align: left; text-decoration: none; color: #000000; line-height: 22px; font-weight: normal; font-style: normal; }
+	.wb-stl-special ul { list-style-image: url('null'); }
+	.wb-stl-footer { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; text-transform: none; }
+	.wb-stl-footer a { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: underline; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-footer a:hover { font: normal normal 12px 'Open Sans',sans-serif; color: #ffffff; text-decoration: none; text-align: left; font-weight: bold; font-style: normal; }
+	.wb-stl-footer ul { list-style-image: url(''); }
+}
