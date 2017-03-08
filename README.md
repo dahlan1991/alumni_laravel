@@ -5,5 +5,5 @@ Step :
 
 - download bootstrap, font-awesome, foundation
 - buat sebuah project laravel 5.2, lalu copykan folder2 diatas,
-- buat sebuah database lalu lakukan seeding, 
+- buat sebuah database sesuai nama databse di file .env lalu lakukan migration, 
 - copykan folder css, img, js ke dalam folder public di project
